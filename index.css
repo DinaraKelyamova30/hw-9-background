@@ -1,0 +1,117 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.div {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    color: gray;
+}
+
+.line1,
+.line2,
+.line3 {
+    display: flex;
+    margin-left: 600px;
+}
+
+#color1 {
+    background-color: aqua;
+}
+
+#color2 {
+    background-color: blueviolet;
+}
+
+#color3 {
+    background-color: coral;
+}
+
+#color4 {
+    background-color: navy;
+}
+
+#color5 {
+    background-color: lawngreen;
+}
+
+#color6 {
+    background-color: chocolate;
+}
+
+#color7 {
+    background-color: palegreen;
+}
+
+#color8 {
+    background-color: olive;
+}
+
+#color9 {
+    background-color: gold;
+}
+
+#img1 {
+    background-image: url(img/1.jpg);
+    background-size: 200px;
+    background-position: center;
+}
+
+#img2 {
+    background-image: url(img/2.jpg);
+    background-size: 200px;
+    background-position: center;
+}
+
+#img3 {
+    background-image: url(img/3.jpg);
+    background-size: 200px;
+    background-position: center;
+}
+
+#img4 {
+    background-image: url(img/4.jpg);
+    background-size: 200px;
+    background-position: center;
+}
+
+#img5 {
+    background-image: url(img/5.jpg);
+    background-size: 200px;
+    background-position: center;
+}
+
+#img6 {
+    background-image: url(img/6.jpg);
+    background-size: 200px;
+    background-position: center;
+}
+
+#img7 {
+    background-image: url(img/7.jpg);
+    background-size: 200px;
+    background-position: center;
+}
+
+#img8 {
+    background-image: url(img/8.jpg);
+    background-size: 200px;
+    background-position: center;
+}
+
+#img9 {
+    background-image: url(img/9.jpg);
+    background-size: 200px;
+    background-position: center;
+}
+
+.displayColor {
+    display: none;
+}
+
+.displayImg {
+    display: none;
+}
